@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tensor.h": "c",
+        "utils.h": "c"
+    }
+}
